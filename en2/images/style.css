@@ -1,0 +1,175 @@
+body {
+  color            : #000000;
+  margin				 : 0px 20px 10px 20px;  
+  padding          : 0px;
+  background-color : #FFFFFF;
+  background-image : url(back.jpg);
+  background-position : left top;
+  background-repeat : repeat-x;
+  font-family      : "Trebuchet MS", Verdana, Arial, Sans-Serif;
+  font-size        : 12px;
+  line-height		 : 120%;
+}
+
+.normal {
+	font-size: 12px;
+}
+
+.nbold {
+	font-weight: bold;
+}
+
+.ncytat {
+	font-style: italic;
+}
+
+.ngrey {
+	color: #808080;
+   font-size: 13px;
+}
+
+.small {
+	font-size: 10px; 
+	color: #808080;
+}
+
+.sbold {
+	font-weight: bold;
+	font-size: 10px; 
+	color: #808080;
+}
+
+.scytat {
+	font-style: italic;
+	font-size: 10px; 
+	color: #808080;
+}
+
+.t1 {
+	font-size: 10pt; 	
+}
+
+.tb1 {
+	font-size: 10pt; 	
+	font-weight: bold;	
+	margin: 5px 0px 10px 0px;
+}
+
+.tb11 {
+	font-size: 11pt; 	
+	font-weight: bold;	
+	margin: 5px 0px 2px 0px;
+}
+
+.tg1 {
+	font-size: 10pt; 	
+	font-weight: bold;	
+	color: #404040;	
+}
+
+.tbb1 {
+	font-size: 10pt; 	
+	font-weight: bold;	
+	color: #2D6D9D;
+}
+
+.t2 {
+	font-size: 12pt; 	
+}
+
+.tb2 {
+	font-size: 12pt; 	
+	font-weight: bold;	
+}
+
+.tg2 {
+	font-size: 12pt; 	
+	font-weight: bold;	
+	color: #404040;
+}
+
+.tbb2 {
+	font-size: 12pt; 	
+	font-weight: bold;	
+	color: #2D6D9D;
+}
+
+.menu {
+	color: #2D6D9D;
+	font-weight: bold;	
+   font-size: 12px;
+	margin: 0px;
+}
+
+.pmenu {
+	color: #616161;
+	font-weight: normal;	
+	font-weight: bold;		
+   font-size: 12px;
+}
+
+.pmenu2 {
+	color: #616161;
+	font-weight: normal;	
+	font-weight: bold;	
+   font-size: 11px;
+	margin-bottom: 12px;
+}
+
+.line {
+	padding-left: -10px;
+	background: #ffffff url(line1.gif) left top repeat-x;
+}
+
+
+.line2 {
+	background: #ffffff url(line1.gif) left top repeat-x; 
+	height: 1px;	
+}
+
+.smallb {
+	font-size: 11px; 
+	color: #000000;
+	line-height: 130%;
+}
+
+
+a{
+   text-decoration: none;
+	color: #2D6D9D;
+}
+
+a:visited{
+   text-decoration: none;
+	color: #2D6D9D;
+}
+
+a:active{
+   text-decoration: none;
+	color: #2D6D9D;
+}
+
+a:hover{
+   text-decoration: none;
+	color: #0B1C28;
+}
+
+.top a{
+   text-decoration: none;
+	color: #404040;
+}
+
+.top a:visited{
+   text-decoration: none;
+	color: #404040;
+}
+
+.top a:active{
+   text-decoration: none;
+	color: #404040;
+}
+
+.top a:hover{
+   text-decoration: none;
+	color: #000000;
+}
